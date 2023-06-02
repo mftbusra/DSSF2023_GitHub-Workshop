@@ -22,6 +22,13 @@
 **Branch** (n.)
 : A version of a repository with its own history. Branches can be created for a unique set of changes and later *merged* with the main branch to avoid file conflicts.
 
+
+
+
+
+
+
+
 **Commit** (n.)
 : A discrete set of changes to a project that have been packaged and labeled.
 
